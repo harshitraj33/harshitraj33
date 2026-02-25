@@ -12,14 +12,11 @@ I am a passionate Full Stack Developer and Cybersecurity Enthusiast currently pu
 ![](https://nirzak-streak-stats.vercel.app/?user=harshitraj33&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitraj33&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshitraj33&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=harshitraj33&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thripalstar) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/my/profile) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
